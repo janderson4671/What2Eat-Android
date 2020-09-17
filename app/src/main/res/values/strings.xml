@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">What2Eat</string>
+    <string name="test_text">it works!</string>
 </resources>
